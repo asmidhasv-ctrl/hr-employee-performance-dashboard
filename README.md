@@ -146,7 +146,7 @@ Right-click an employee in the special-projects table and choose **Drill through
 
 ## How to Use
 
-1. Download `HR_Employee_Performance_Dashboard.pbix`.
+1. Download `employee_performance.pbix`.
 2. Open it in Power BI Desktop (Windows).
 3. If you want to refresh the data, download `HRDataset_v14.csv` from Kaggle and point the `HR` query to its location in Power Query.
 
