@@ -169,4 +169,4 @@ Data cleaning and profiling in Power Query, locale-aware date handling, data qua
 
 ## Author
 
-Your Name | [LinkedIn](https://www.linkedin.com/in/your-profile) | your.email@example.com
+Asmidha S V | www.linkedin.com/in/asmidha-sv | asmidhasv@gmail.com
